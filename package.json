@@ -7,7 +7,7 @@
     "dev": "ts-node-dev ./src/app/app.ts",
     "build": "tsc",
     "start": "ts-node src/app/app.ts",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo 'No tests yet' && exit 0"
   },
   "keywords": [],
   "author": "",
